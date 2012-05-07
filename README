@@ -1,0 +1,24 @@
+<The Hard Way Is Easier>
+http://learnpythonthehardway.org/book/
+http://ruby.learncodethehardway.org/book/
+Python Version Python 2.7.2+ 
+Exercise 1: A Good First Program
+If you are from another country, and you get errors about ASCII encodings, then put this at the top of your python scripts:
+
+    # -- coding: utf-8 --
+
+It will fix them so that you can use unicode UTF-8 in your scripts without a problem.
+Exercise 2:Comments And Pound Characters
+Exercise 4: Variables And Names
+Exercise 5: More Variables And Printing
+%s,%d 
+%r : print this nomatter what
+Exercise 6:Strings And Text
+Exercise 11: Asking Questions
+Notice that we put a , (comma) at the end of each print line. This is so that print doesn't end the line with a newline and go to the next line.
+pydoc command:
+open(name[,mode[,buffering]])->file object
+
+Exercise 13: Parameters,Unpacking,Variables
+Exercise 15: Reading Files
+Exercise 17: Just read here
